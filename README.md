@@ -22,4 +22,4 @@ Follow these instructions to run the project locally on your machine:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/liu-election-project.git](https://github.com/YOUR_GITHUB_USERNAME/liu-election-project.git)
+   git clone [https://github.com/https:/liu-election-project.vercel.app/liu-election-project.git](https://github.com/YOUR_GITHUB_USERNAME/liu-election-project.git)
