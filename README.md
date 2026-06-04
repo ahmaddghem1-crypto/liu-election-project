@@ -3,7 +3,7 @@
 A responsive Multi-Utility Frontend Web Application developed using ReactJS for the CSCI390 Web Programming course. This platform consolidates an automated Election Management Dashboard and a dynamic Bill Calculator into a single, seamless user experience.
 
 ##  Live Deployment
-* **Live Demo URL:** [INSERT_YOUR_VERCEL_LINK_HERE]
+* **Live Demo URL:** [https://liu-election-project.vercel.app/]
 
 ##  Key Features
 * **At Least 4 Dedicated Navigation Views:** Home, Election Management, Bill Calculator, and About & Contact.
